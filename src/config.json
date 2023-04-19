@@ -1,0 +1,31 @@
+{
+    "apiUrl": "https://localhost:7158/api/news/",
+    "countries": [
+      {
+        "name": "Argentina",
+        "language": "es"
+      },
+      {
+        "name": "United States",
+        "language": "en"
+      },
+      {
+        "name": "France",
+        "language": "fr"
+      }
+    ],
+    "pageSizing": [
+      {
+        "id": "10",
+        "value": "10"
+      },
+      {
+        "id": "15",
+        "value": "15"
+      },
+      {
+        "id": "20",
+        "value": "20"
+      }  
+    ]
+  }
